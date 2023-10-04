@@ -8,6 +8,7 @@
   <li>Developed by Chebon 😄</li>
 </ul>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chebon-breezy)
 
 <!--
 **Chebon-breezy/chebon-breezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
