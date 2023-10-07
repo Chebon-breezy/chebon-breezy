@@ -1,6 +1,6 @@
 <h3>Howdy, how ya doing? 🙌</h3>
 <ul>
-	<li>My Website: https://linktr.ee/brianchebon 🔥</li>
+	<li>Website: https://linktr.ee/brianchebon 🔥</li>
 	<li>Portfolio: https://brian-chebon-portfolio-web.vercel.app ✨ </a></li>
   <li>LinkedIn: https://www.linkedin.com/in/brian-chebon-8b081219a 📫 </li>
 	<li>Big ol tech fan (Web Dev) ⚡  </li>
