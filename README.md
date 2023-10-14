@@ -8,6 +8,9 @@
   <li>DevelopedbyChebon 😄</li>
 </ul>
 
+[![Grade](https://img.shields.io/badge/Grade-A-green.svg)](https://github.com/Chebon-breezy/chebon-breezy)
+[![Productivity](https://github-readme-stats.vercel.app/api/top-langs?username=Chebon-breezy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2)](https://github.com/Chebon-breezy/chebon-breezy/)
+
 <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chebon-breezy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"  />
 
 <!--
