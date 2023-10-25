@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="web pack logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"/>
 </div>
 
 <div>
