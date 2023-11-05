@@ -13,12 +13,13 @@
 <div id="badges" width="100" height="100">
     <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/React-blue?logo=React&logoColor=white" alt="React Badge"/>
-    <img src="https://img.shields.io/badge/tailwindcss-blue?logo=tailwindcss&logoColor=white" alt="Tailwind Badge"/>
+    <img src="https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white" alt="TypeScript Badge"/>
     <img src="https://img.shields.io/badge/NodeJS-green?logo=NodeJS&logoColor=white" alt="NodeJS Badge"/>
     <img src="https://img.shields.io/badge/firebase-orange?logo=firebase&logoColor=white" alt="Firebase Badge"/>
     <img src="https://img.shields.io/badge/html5-orange?logo=html5&logoColor=white" alt="HTML5 Badge"/>
     <img src="https://img.shields.io/badge/css3-blue?logo=css3&logoColor=white" alt="CSS3 Badge"/>
 </div>
+
 
 <div align="centr">
   <h4>Let's connect here:</h4>
