@@ -9,47 +9,14 @@
 </ul>
 <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chebon-breezy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"/>
 
-<div>
-
-  <h4>Languages and frameworks:</h4>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
-
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react js logo"/>
-
-</div>
-
-
-
-<div>
-  <h4>Other Technologies:</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="web pack logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"/>
-</div>
-
-<div>
-  <h4>Styling and design tech:</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"/>
-</div>
+## My Current Tech Stack
+ <div id="badges"  width="100" height="100">
+    <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/React-blue?logo=React&logoColor=white" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/tailwindcss-blue?logo=tailwindcss&logoColor=white" alt="Tailwind Badge"/>
+    <img src="https://img.shields.io/badge/NodeJS-green?logo=NodeJS&logoColor=white" alt="NodeJS Badge"/>
+<!--     <img src="https://img.shields.io/badge/mongodb-green?logo=mongodb&logoColor=white" alt="mongdb Badge"/> -->
+  </div>
 
 <div align="centr">
   <h4>Let's connect here:</h4>
