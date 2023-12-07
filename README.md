@@ -31,6 +31,12 @@
   </a>
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chebon-breezy&show_icons=true&locale=en&layout=compact" alt="Chebon-breezy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chebon-breezy&show_icons=true&locale=en" alt="Chebon-breezy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chebon-breezy&" alt="Chebon-breezy" /></p>
+
 <!--
 **Chebon-breezy/chebon-breezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
