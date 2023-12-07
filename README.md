@@ -7,7 +7,16 @@
 	<li>Open to any Roles (Remote), Web Development role(Front-End Dev) 🔭 📞 </li>
   <li>DevelopedbyChebon😄</li>
 </ul>
-<img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chebon-breezy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"/>
+
+<!-- <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chebon-breezy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"/> -->
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chebon-breezy&show_icons=true&locale=en&layout=compact" alt="Chebon-breezy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chebon-breezy&show_icons=true&locale=en" alt="Chebon-breezy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chebon-breezy&" alt="Chebon-breezy" /></p>
+	
+</div>
 
 ## My Current Tech Stack
 <div id="badges" width="100" height="100">
@@ -31,11 +40,7 @@
   </a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chebon-breezy&show_icons=true&locale=en&layout=compact" alt="Chebon-breezy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chebon-breezy&show_icons=true&locale=en" alt="Chebon-breezy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chebon-breezy&" alt="Chebon-breezy" /></p>
 
 <!--
 **Chebon-breezy/chebon-breezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
