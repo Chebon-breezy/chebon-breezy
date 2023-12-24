@@ -21,9 +21,9 @@
 
 ### Github Stats ⚡
 
- [![Brian's github stats](https://github-readme-Chebon.vercel.app/api?username=Chebon-breezy&show_icons=true&theme=codeSTACKr&count_private=true&line_height=20)](#)
+ [![Brian's github stats](https://github-readme-mwendwa.vercel.app/api?username=Chebon-breezy&show_icons=true&theme=codeSTACKr&count_private=true&line_height=20)](#)
  
- [![Top languages](https://github-readme-Chebon.vercel.app/api/top-langs/?username=Chebon-breezy&theme=codeSTACKr&layout=compact&count_private=true&hide_border=true)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Chebon-breezy&theme=codeSTACKr&layout=compact&count_private=true&hide_border=true)](#)
 
 [![Brian Chebon's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=Chebon-breezy&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0&count_private=true)](#)
 
