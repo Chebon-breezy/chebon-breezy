@@ -1,5 +1,4 @@
 <h3>Howdy, how ya doing? 🙌</h3>
-
 <ul>
 	<li>Website: https://linktr.ee/brianchebon 🔥</li> 
 	<li>Portfolio: https://brian-chebon-portfolio-web.vercel.app✨ </a></li>
