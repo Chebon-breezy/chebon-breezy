@@ -36,6 +36,7 @@
 <div id="badges" width="100" height="100">
     <img src="https://img.shields.io/badge/php-purple?logo=php&logoColor=white" alt="PHP Badge"/>
     <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/laravel-red?logo=laravel&logoColor=white" alt="Laravel Badge"/>
     <img src="https://img.shields.io/badge/golang-blue?logo=go&logoColor=white" alt="Golang Badge"/>
     <img src="https://img.shields.io/badge/mysql-blue?logo=mysql&logoColor=white" alt="MySQL Badge"/>
     <img src="https://img.shields.io/badge/firebase-orange?logo=firebase&logoColor=white" alt="Firebase Badge"/>
