@@ -5,7 +5,7 @@
 	<li>Portfolio: https://brian-chebon-portfolio-web.vercel.app ✨ </a></li>
   <li>LinkedIn: https://www.linkedin.com/in/brianchebon 📫 </li>
 	<li>Big ol tech fan (Web Dev) ⚡ </li>
-	<li>Open to any Roles (Remote), Web Development role(Front-End Dev) 🔭 📞 </li>
+	<li>Open to any web Roles (Remote), Web Development role(Back-End Dev) 🔭 📞 </li>
   <li>DevelopedbyChebon😄</li>
 </ul>
 
