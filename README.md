@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chebon-breezy&label=Profile%20views&color=0e75b6&style=flat" alt="Chebon-breezy" /> </p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chebon-breezy)
 <h3>Howdy, how ya doing? 🙌</h3>
 <ul>
 	<li>Website: https://linktr.ee/brianchebon 🔥</li> 
