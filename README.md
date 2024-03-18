@@ -1,5 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chebon-breezy&label=Profile%20views&color=0e75b6&style=flat" alt="Chebon-breezy" /> </p>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chebon-breezy)
+&nbsp;<div align="center">
+ [![website](https://img.shields.io/badge/website-informational)](https://alexnesvit.github.io/portfolio/)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/Chebon-breezy)
+ <img src="https://img.shields.io/github/stars/AlexNesvit?style=flat&logo=github" alt="Stars"/>
+ [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI)
+ ![GitHub followers](https://img.shields.io/github/followers/Chebon-breezy?style=flat&logo=github)
+ ![status](https://img.shields.io/badge/status-up-brightgreen)
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chebon-breezy)
+</div>
 <h3>Howdy, how ya doing? 🙌</h3>
 <ul>
 	<li>Website: https://linktr.ee/brianchebon 🔥</li> 
