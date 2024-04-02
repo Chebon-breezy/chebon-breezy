@@ -20,9 +20,9 @@
 	
 </div> comment previous stats -->
 
-### Github Stats ⚡
+<-- ### Github Stats ⚡ -->
 
-## <div align="center">⚙️ GitHub Profile Stats:
+## <div align="center">⚙️ GitHub Profile Stats ⚡:
   </div>
 
 <table>
