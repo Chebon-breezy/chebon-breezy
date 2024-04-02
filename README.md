@@ -22,7 +22,21 @@
 
 ### Github Stats ⚡
 
- [![Brian's github stats](https://github-readme-mwendwa.vercel.app/api?username=Chebon-breezy&show_icons=true&theme=codeSTACKr&count_private=true&line_height=20)](#)
+## <div align="center">⚙️ GitHub Profile Stats:
+  </div>
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Chebon-breezy&theme=midnight-purple&hide_border=false" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chebon-breezy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+<!-- [![Brian's github stats](https://github-readme-mwendwa.vercel.app/api?username=Chebon-breezy&show_icons=true&theme=codeSTACKr&count_private=true&line_height=20)](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Chebon-breezy&theme=codeSTACKr&layout=compact&count_private=true&hide_border=true)](#)
 
@@ -30,7 +44,7 @@
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</p> -->
 
 ## My Current Tech Stack
 <div id="badges" width="100" height="100">
