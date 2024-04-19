@@ -54,6 +54,12 @@
     <img src="https://img.shields.io/badge/golang-blue?logo=go&logoColor=white" alt="Golang Badge"/>
     <img src="https://img.shields.io/badge/mysql-blue?logo=mysql&logoColor=white" alt="MySQL Badge"/>
     <img src="https://img.shields.io/badge/firebase-orange?logo=firebase&logoColor=white" alt="Firebase Badge"/>
+    <img src="https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white" alt="Docker Badge"/>
+    <img src="https://img.shields.io/badge/git-orange?logo=git&logoColor=white" alt="Git Badge"/>
+    <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/html-red?logo=html5&logoColor=white" alt="HTML Badge"/>
+    <img src="https://img.shields.io/badge/tailwind-38b2ac?logo=tailwindcss&logoColor=white" alt="Tailwind Badge"/>
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js Badge"/>
 </div>
 
 
