@@ -3,6 +3,7 @@
 <ul>
 	<li>Website: https://linktr.ee/brianchebon 🔥</li> 
   <li>LinkedIn: https://www.linkedin.com/in/brianchebon 📫 </li>
+	<li>X: https://twitter.com/ManLikeBrian_</li>
 	<li>Big ol tech fan (Web Dev) ⚡ </li>
 	<li>Open to any web Roles (Remote), Web Development role(Back-End Dev) 🔭 📞 </li>
   <li>DevelopedbyChebon😄</li>
