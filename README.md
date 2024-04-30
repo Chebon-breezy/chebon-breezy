@@ -65,7 +65,7 @@
 
 <div align="centr">
   <h4>Let's connect here:</h4>
-  <a href="https://twitter.com/Chebon254" target="_blank" rel="noopener">
+  <a href="https://twitter.com/ManLikeBrian_" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="30" alt="twitter logo"/>
   </a>
   <a href="https://www.linkedin.com/in/brianchebon/" target="_blank" rel="noopener">
